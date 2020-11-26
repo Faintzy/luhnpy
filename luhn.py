@@ -2,7 +2,7 @@
 #                                           #
 #            Luhn Validator                 #
 #                                           #
-#  Coded by https://github.com/sudoGabriel  #
+#     Coded by https://github.com/Faintz    #
 #                                           #
 #              22/11/2020                   #
 #                                           #
